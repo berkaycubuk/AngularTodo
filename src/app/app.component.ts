@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Todo App';
+  title = 'Todo App Super';
   todoArray = [];
 
   deleteTodo(todo: string) {
